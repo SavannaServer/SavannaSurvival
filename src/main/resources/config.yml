@@ -1,0 +1,11 @@
+config:
+  database:
+    host: "localhost"
+    port: 27017
+
+  discord:
+    token: "token"
+    channel-id: 0
+
+  vote:
+    announce-channel-id: 0

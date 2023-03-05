@@ -1,0 +1,7 @@
+name: SavannaSurvival
+version: '${project.version}'
+main: net.ramuremo.savannasurvival.SavannaSurvival
+api-version: 1.19
+authors: [ RamuneRemonedo ]
+depend:
+  - Votifier
