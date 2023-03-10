@@ -1,7 +1,7 @@
 package net.ramuremo.savannasurvival.world;
 
-import net.ramuremo.savannasurvival.config.ConfigFile;
 import org.bukkit.plugin.Plugin;
+import tokyo.ramune.savannacore.config.ConfigFile;
 
 import javax.annotation.Nonnull;
 import java.io.File;

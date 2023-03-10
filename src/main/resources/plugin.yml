@@ -5,3 +5,4 @@ api-version: 1.19
 authors: [ RamuneRemonedo ]
 depend:
   - Votifier
+  - SavannaCore
